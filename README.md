@@ -23,4 +23,4 @@ PureLeaf is a landing page design for a natural skincare brand that promotes pla
 
 ## Design Preview
 
-![PureLeaf Landing Page](./PureLeaf-Landing Page.png)
+![PureLeaf Landing Page](./PureLeaf-Landing-Page.png)
