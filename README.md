@@ -22,8 +22,8 @@ PureLeaf is a landing page design for a natural skincare brand that promotes pla
 - UI/UX Design
 
 ## Design Preview
-![PureLeaf Landing Page](PureLeaf-Landing-Page.png)
+![PureLeaf Landing Page](PureLeaf-Landing Page.png)
 
-## Figma Design File
+## Design Preview
 
-[Download PureLeaf - Landing Page.fig](./PureLeaf – Landing Page.fig)
+![PureLeaf Landing Page](./PureLeaf-Landing Page.png)
